@@ -441,6 +441,7 @@ void admin_login()
         {
             char u[15];
             int f;
+            //Raja
             cout << "Enter the student id:" << endl;
             cin >> u;
             //cout << "Enter the amount paying:" << endl;
